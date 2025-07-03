@@ -1,4 +1,4 @@
-1 . Use scikit-learn to build a model to solve a classification problem
+1 . Use scikit-learn to build a model to solve a classification problem \n
 2. Implement a pipeline to combine preprocessing steps with a machine learning model
 3. Interpret the results
 4. Update the pipeline with a different machine learning model
